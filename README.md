@@ -16,7 +16,7 @@ Each lab is structured to provide **real-world cloud engineering experience** us
 
 | 🔢 **Project No.** | 📌 **Project Name** | 🛠️ **Tools Used** | 📖 **Description** | 🏅 **Status** |
 |----------------|-------------------------|-----------------|--------------------------------|-------------|
-| **1** | [VPC, EC2 & Security Groups Deployment](https://github.com/Metsam237/terraform-vpc-ec2) | Terraform, AWS EC2 | Automate the creation of a **custom AWS VPC**, subnets, security groups, and EC2 instances. | ✅ **Completed** |
+| **1** | [VPC, EC2 & Security Groups Deployment](https://github.com/Metsam237/terraform-vpc-aws) | Terraform, AWS EC2 | Automate the creation of a **custom AWS VPC**, subnets, security groups, and EC2 instances. | ✅ **Completed** |
 | **2** | [Web Server Deployment (EC2, Nginx, Ansible)](https://github.com/metsam237/Cloud-Automation-Projects/02-EC2-Nginx-Ansible) | AWS EC2, Ansible, Nginx | Use **Ansible** to automatically configure and deploy **Nginx** on AWS EC2. | ✅ **Completed** |
 | **3** | [Auto Scaling EC2 with Terraform](https://github.com/metsam237/Cloud-Automation-Projects/03-AutoScaling-EC2-Terraform) | Terraform, AWS Auto Scaling | Deploy **Auto Scaling groups** to handle workload fluctuations dynamically. | ✅ **Completed** |
 | **4** | [Load Balancer & Web Server Setup](https://github.com/metsam237/Cloud-Automation-Projects/04-ELB-WebServer-Ansible) | AWS ELB, Ansible, Auto Scaling | Configure an **Elastic Load Balancer (ELB)** to distribute traffic across multiple EC2 instances. | ✅ **Completed** |
